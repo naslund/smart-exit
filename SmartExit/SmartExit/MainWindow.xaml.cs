@@ -72,7 +72,7 @@ namespace SmartExit
             {
                 StartInfo =
                 {
-                    FileName = $@"{startupPath}/cports/cports.exe",
+                    FileName = $@"{startupPath}/cports.exe",
                     Arguments = @"/close * * * * Tibia.exe",
                     UseShellExecute = false,
                     CreateNoWindow = false,
