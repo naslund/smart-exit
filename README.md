@@ -7,7 +7,7 @@ Small tool for simplifying the ["x-log"](http://tibia.wikia.com/wiki/X-Logging) 
 This utility uses the [CurrPorts](http://www.nirsoft.net/utils/cports.html#DownloadLinks) application.
 
 #### Download
-- [Version 0.1](https://github.com/naslund/SmartExit/releases/download/v0.1/SmartExit.zip) (Including cports.exe)
+- [Version 0.1](https://github.com/naslund/SmartExit/releases/download/v0.1/SmartExit.zip) / [Version 0.1b - Tibia 11](https://github.com/naslund/smart-exit/releases/download/v0.1b/SmartExit0.1b.zip) (Including cports.exe) 
 - Unpack and run SmartExit.exe as administrator
 
 #### Compile
